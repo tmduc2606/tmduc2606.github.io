@@ -16,11 +16,6 @@ DefaultContentLanguage = "en"
   enableReadingTime = true
   enableOpenGraph = true
   enableTwitterCards = true
-  walineServer = "https://waline-blog-rho-three.vercel.app/"
-
-  [params.waline]
-    emoji = ["//unpkg.com/@waline/emojis@latest/bilibili"]
-    requiredMeta = ["nick", "mail"]
 
 [params.social]
   email = "mailto:tmduc2606@gmail.com"
@@ -45,19 +40,9 @@ name = "Projects"
 weight = 3
 
 [[menu.main]]
-url = "/posts/"
-name = "Posts"
-weight = 4
-
-[[menu.main]]
 url = "/contact/"
 name = "Contact"
 weight = 5
-
-[[menu.main]]
-url = "/tags/"
-name = "Tags"
-weight = 6
 
 [sitemap]
   changefreq = "always"

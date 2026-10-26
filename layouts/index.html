@@ -19,7 +19,7 @@
                 {{ end }}
             >
                 <div class="post-title home-quote">
-                    {{ .Title }}
+                    {{ with .Params.hero_quote }}{{ . }}{{ else }}{{ .Title }}{{ end }}
                     {{ if .Params.description }}
                     <div class="post-subtitle">
                         {{ .Params.description }}

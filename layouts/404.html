@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+    <div class="post-list-container post-list-container-shadow">
+        <div class="post">
+            <div class="post-head-wrapper">
+                <div class="post-title">
+                    404 — Page not found
+                </div>
+            </div>
+            <div class="post-body-wrapper">
+                <div class="post-body" v-pre>
+                    <p>The page you are looking for does not exist, or it has been moved.</p>
+                    <p><a href="{{ "" | absLangURL }}">&larr; Back to {{ .Site.Title }}</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+{{ end }}
