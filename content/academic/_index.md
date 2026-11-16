@@ -2,7 +2,7 @@
 title: "Academic"
 description: "Ongoing Plans & Education"
 date: 2026-11-16
-featured_image: "/images/mathematics.jpg"
+featured_image: "/images/mathematics_2.jpg"
 comment: false
 ---
 
