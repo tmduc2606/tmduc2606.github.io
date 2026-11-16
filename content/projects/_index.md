@@ -2,7 +2,7 @@
 title: "Projects"
 description: "Hands-on projects and experiments"
 date: 2026-07-30
-featured_image: "/images/mathematics.jpg"
+featured_image: "/images/ai_1.jpg"
 comment: false
 ---
 
