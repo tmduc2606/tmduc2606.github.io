@@ -1,20 +1,19 @@
 ---
 title: "Academic"
 description: "Ongoing Plans & Education"
-date: 2026-07-30
+date: 2026-11-16
 featured_image: "/images/mathematics.jpg"
 comment: false
 ---
 
 ## Ongoing Plans
 
-I am currently refining the thereotical concepts, working on two key projects that resemble full data lifecycle in order to solidify Data Engineering foundation before proceeding any further topics.
+The majority of my time will be focused on refining the mathematical concepts, working on quintessential framework that resembles full data lifecycle possessing both Data Engineering and Machine Learning. In addition, I am  preparing for upcoming targets.
 
-- Actively hunting for internship opportunities
-- Open to research collaboration when the acquisition does not go well
-- Upcoming themes: Deep Learning, Mathtoolkit (Overhaul)
+- Actively hunting for internship opportunities.
+- Mathtoolkit resurrection with consistent bibilography.
 
-Stay tuned: [Duke's Mathtoolkit Repository](https://github.com/tmduc2606/mathtoolkit) for sample tests and more.
+Stay tuned: [Duke's Mathtoolkit Repository](https://github.com/tmduc2606/mathtoolkit) for sample tests and much more.
 
 ## Education
 
