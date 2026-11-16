@@ -1,7 +1,7 @@
 ---
 title: "Duke Tran"
 hero_quote: "When all that lies ahead is struggle, choose the path of greatest resistance"
-date: 2026-07-30
+date: 2026-11-16
 featured_image: "/images/banner.jpg"
 ---
 
@@ -13,4 +13,4 @@ featured_image: "/images/banner.jpg"
 
 Greetings all for coming across my personal website, where I share my insights into hands-on projects and academic milestones. There are decent sections to explore about my works and contribution to the field.
 
-Currently, I am an undergraduate majoring in Computer Science at International University, VNU-HCM with background of Data Science, Artificial Intelligence. I am specifically interested in bridging the gap between technical modeling and real-world applications, with hands-on experience in data engineering through projects involving ETL pipelines, data modeling, and scalable data systems. My interests have also been shaped by the rapid growth of generative AI in recent years, motivating me to explore how reliable data infrastructure can support analytics, machine learning, and AI applications.
+Currently, I am an undergraduate majoring in Computer Science at International University, VNU-HCM with interests spanning Machine Learning and Artificial Intelligence. Recently, I have been developing hands-on experience in data engineering through projects involving ETL pipelines, data modeling, and scalable data systems, bridging the gap between technical modeling and real-world applications. The rapid growth of generative AI in recent years has motivated me to dedicate myself to building data infrastructure that support analaytics and AI applications.
