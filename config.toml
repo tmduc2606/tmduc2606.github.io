@@ -9,7 +9,7 @@ DefaultContentLanguage = "en"
   pagerSize = 10
 
 [params]
-  subtitle = "Computer Science Undergraduate | Aspiring Data Engineer | Data Pipelines, ETL & Analytics Engineering | PySpark, Airflow, dbt, SQL | Data Science & AI"
+  subtitle = "Computer Science Undergraduate | Aspiring Data Engineer | Data Pipelines, ETL & Analytics Engineering | PySpark, Airflow, dbt, SQL"
   description = "Undergraduate of Computer Science at International University, VNU-HCM. Interests in NLP, Data Science/AI, and Data Engineering."
   enableGitalk = false
   enableGiscus = false
